@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://example.org/"
+baseURL = "https://extraordinary-creponne-f2c26f.netlify.app/"
 languageCode = "en"
 title = "last"
 theme = "hugo-devresume-theme"
