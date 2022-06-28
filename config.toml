@@ -26,7 +26,7 @@ theme = "hugo-devresume-theme"
         enable = true
         name = "last test"
         tagline = "Senior Software Engineer"
-        avatar = "avatar.png"
+       # avatar = "avatar.png"
 
 
 
@@ -61,7 +61,7 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.skills.list]]
-        title = "Technical"
+        title = "my headline"
         [[params.skills.list.items]]
         details = "JavaScript/Angular/React/Vue"
         [[params.skills.list.items]]
