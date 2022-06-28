@@ -26,8 +26,8 @@ theme = "hugo-devresume-theme"
         enable = true
         name = "last test"
         tagline = "Senior Software Engineer"
+        # avatar = ""
         
-         <img src="public/assets/avatar.png" alt="test" width="500" height="600"> 
 
 
 
