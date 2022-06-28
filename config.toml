@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://https://cmon-man.netlify.app/"
+baseURL = "https://firstlast-hey.netlify.app/"
 languageCode = "en"
 title = "last"
 theme = "hugo-devresume-theme"
